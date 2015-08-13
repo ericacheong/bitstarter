@@ -1,6 +1,3 @@
-myrepo
-======
+# bitstart project -- express starter project
 
-git push
-
-git pull
+This repo is starter code using express and node modules. 
